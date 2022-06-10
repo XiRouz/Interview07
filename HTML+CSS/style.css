@@ -1,0 +1,24 @@
+html { height: 100%; }
+
+body {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#div1 {
+    background-color: lightblue;
+    width: 200px;
+    padding: 25px;
+    border: 25px solid Navy;
+    margin: 25px;
+}
+
+.div2 {
+    background-color: indianred;
+    width: 200px;
+    padding: 25px;
+    border: 25px solid fuchsia;
+    margin: 25px;
+}

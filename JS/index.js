@@ -49,8 +49,7 @@ function init() {
      * @returns {number[]} - Coordinates in Array
      */
     function getCoordinates(time) {
-        // TODO: implement body of this function
-        return [0.0, 1.0];
+        return [Math.sin(time), Math.cos(time)];
     }
 
     /**
