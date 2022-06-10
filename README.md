@@ -43,4 +43,4 @@ index.html содержит графическое изображение окр
 
 index.js файл содержит функции, которые необходимыми для реализации анимации и функция getCoordinates (int time), которую необходимо реализовать
 
-3. Создайте pull request в ветку master репозитория https://github.com/MyITschool/Interview23.
+3. Создайте pull request в ветку master репозитория https://github.com/MyITschool/Interview07.
