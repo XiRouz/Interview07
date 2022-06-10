@@ -1,4 +1,4 @@
-1. Создайте fork репозитория https://github.com/MyITschool/Interview23 в своём аккаунте на github.com
+1. Создайте fork репозитория https://github.com/MyITschool/Interview07 в своём аккаунте на github.com
 2. Выполните следующие задания
 
 Задание 1
